@@ -5,7 +5,7 @@
 <h1>source code</h1>
 <img src="camera/2.png" width="400">
 
-# 💡  web site! 💡#
+# 💡  web site! 💡
 i created **camera accessories web site.**
 
 # 🛠 Tools used:
