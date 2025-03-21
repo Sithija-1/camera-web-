@@ -8,11 +8,11 @@
 # 💡  web site! 💡
 i created **camera accessories web site.**
 
-# 🛠 Tools used:
+## 🛠 Tools used:
 ✅ visual studeo
 ✅ chrome
 
-# 🛠 technology used:
+## 🛠 technology used:
 ✅ HTML
 ✅CSS
 ✅ bootstrap
