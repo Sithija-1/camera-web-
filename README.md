@@ -13,9 +13,9 @@ i created **camera accessories web site.**
 ✅ chrome
 
 ## 🛠 technology used:
-✅ HTML
-✅CSS
-✅ bootstrap
+# ✅ HTML
+# ✅CSS
+# ✅ bootstrap
 
 
 
