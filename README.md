@@ -5,14 +5,14 @@
 <h1>source code</h1>
 <img src="camera/2.png" width="400">
 
-#💡  web site! 💡#
-i created camera accessories web site.
+# 💡  web site! 💡#
+i created **camera accessories web site.**
 
-#🛠 Tools used:
+# 🛠 Tools used:
 ✅ visual studeo
 ✅ chrome
 
-#🛠 technology used:
+# 🛠 technology used:
 ✅ HTML
 ✅CSS
 ✅ bootstrap
